@@ -1,0 +1,6 @@
+@HelloWorldVaultConfig_HostAddress = http://localhost:5222
+
+GET {{HelloWorldVaultConfig_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
